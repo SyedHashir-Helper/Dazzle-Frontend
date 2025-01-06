@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.67ba3b78.css",
+    "main.js": "/static/js/main.927367a1.js",
+    "static/media/WhatsApp Image 2024-12-15 at 17.18.39_675ca8b5.jpg": "/static/media/WhatsApp Image 2024-12-15 at 17.18.39_675ca8b5.e7e90f4d288abb7cabda.jpg",
+    "static/media/WhatsApp Image 2024-12-15 at 17.18.39_7cf744ec.jpg": "/static/media/WhatsApp Image 2024-12-15 at 17.18.39_7cf744ec.662ae03ae801dba65733.jpg",
+    "static/media/WhatsApp Image 2024-12-15 at 17.18.31_f9522921.jpg": "/static/media/WhatsApp Image 2024-12-15 at 17.18.31_f9522921.10c35d2eac83ebf6951d.jpg",
+    "static/media/WhatsApp Image 2024-12-15 at 17.18.34_5068bcbd.jpg": "/static/media/WhatsApp Image 2024-12-15 at 17.18.34_5068bcbd.b5ab3826b947422f2ce7.jpg",
+    "static/media/WhatsApp Image 2024-12-15 at 17.18.31_b72ac8ac.jpg": "/static/media/WhatsApp Image 2024-12-15 at 17.18.31_b72ac8ac.28b932e745bb91e6c83e.jpg",
+    "static/media/WhatsApp Image 2024-12-15 at 17.18.32_437159bc.jpg": "/static/media/WhatsApp Image 2024-12-15 at 17.18.32_437159bc.9ef50f045f4f106e43de.jpg",
+    "static/media/WhatsApp Image 2024-12-15 at 17.18.36_fb7c4424.jpg": "/static/media/WhatsApp Image 2024-12-15 at 17.18.36_fb7c4424.70160dd101a930b486d0.jpg",
+    "static/media/WhatsApp Image 2024-12-15 at 17.18.37_a05f2086.jpg": "/static/media/WhatsApp Image 2024-12-15 at 17.18.37_a05f2086.ff133ea513278bab02bb.jpg",
+    "static/media/WhatsApp Image 2024-12-15 at 17.18.40_8a3f779a.jpg": "/static/media/WhatsApp Image 2024-12-15 at 17.18.40_8a3f779a.3322f65c0ce66cabc1c5.jpg",
+    "static/media/blog-1.jpg": "/static/media/blog-1.ba155d989afb69b6f6b8.jpg",
+    "static/media/watch-1.avif": "/static/media/watch-1.594453b4473ec180db7d.avif",
+    "static/media/menu.svg": "/static/media/menu.dce6240c61671672f341c0f8f4253c71.svg",
+    "static/media/cart.svg": "/static/media/cart.79051989c99a96e7b41957b587a428dd.svg",
+    "index.html": "/index.html",
+    "static/media/view.svg": "/static/media/view.90f335b63d298305bb0baa27e6786d6c.svg",
+    "static/media/compare.svg": "/static/media/compare.c73d19c5486dfa028e1e5e3771745f36.svg",
+    "static/media/wish.svg": "/static/media/wish.b893ca13ff8e692e6b1ec110845b2b79.svg",
+    "static/media/prodcompare.svg": "/static/media/prodcompare.2bbfd340c94177fd1223af04956c03dc.svg",
+    "static/media/add-cart.svg": "/static/media/add-cart.e3aa8ff791dce20f9b416809db48b272.svg",
+    "static/media/wishlist.svg": "/static/media/wishlist.72059c2bea7b950e0366b684244ca1bb.svg",
+    "static/media/user.svg": "/static/media/user.1ab0d7646f68a516d1007d9f8bab54a9.svg",
+    "main.67ba3b78.css.map": "/static/css/main.67ba3b78.css.map",
+    "main.927367a1.js.map": "/static/js/main.927367a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67ba3b78.css",
+    "static/js/main.927367a1.js"
+  ]
+}
